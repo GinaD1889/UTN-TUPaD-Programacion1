@@ -152,3 +152,4 @@ while energia > 0 and tiempo > 0 and cerraduras_abiertas < 3 and not alarma:
     elif alarma:
         print("DERROTA.")
         print("La alarma quedo activada.")                       
+
